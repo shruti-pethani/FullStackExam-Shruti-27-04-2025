@@ -1,0 +1,145 @@
+[{
+  "_id": {
+    "$oid": "680d05910e8cf3cecd475e0f"
+  },
+  "name": "iPhone 15 Pro Max",
+  "description": "The latest Apple iPhone with A17 Bionic chip, advanced camera system, and titanium frame.",
+  "price": 149999,
+  "category": "Mobile",
+  "brand": "Apple",
+  "stock": 100,
+  "imageUrl": "https://m.media-amazon.com/images/I/31g-P19G-yL._SY445_SX342_QL70_FMwebp_.jpg",
+  "createdAt": {
+    "$date": "2025-04-26T16:10:57.245Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-26T16:10:57.245Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "680d087f0e8cf3cecd475e25"
+  },
+  "name": "Bacca Bucci",
+  "description": "Bacca Bucci Men's Torque Rugged Edge Activewear Sneakers Step Into High-Octane Style Where Performance Meets Urban Edge",
+  "price": 2923,
+  "category": "Footware",
+  "brand": "Apple",
+  "stock": 100,
+  "imageUrl": "https://m.media-amazon.com/images/I/41NyjSPQuDL._SY695_.jpg",
+  "createdAt": {
+    "$date": "2025-04-26T16:23:27.883Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-26T16:23:27.883Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "680e270fd04e93b2dd968717"
+  },
+  "name": "Armani Exchange Analog Watch",
+  "description": "Armani Exchange Silicone Hampton Analog Blue Dial Men Watch-Ax2440, Blue Band",
+  "price": 14995,
+  "category": "Watch",
+  "brand": "Armani Exchange",
+  "stock": 100,
+  "imageUrl": "https://m.media-amazon.com/images/I/41Oneg6H5QL._SX300_SY300_QL70_FMwebp_.jpg",
+  "createdAt": {
+    "$date": "2025-04-27T12:46:07.088Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-27T12:46:07.088Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "680e281d8f44bc4024a4eeb1"
+  },
+  "name": "Safri Bag",
+  "description": "Safari Thorium Neo 8 Wheels Trolley Bag Hard Case Polycarbonate 360 Degree Wheeling System Luggage, Trolley Bags for Travel, Suitcase for Travel",
+  "price": 2699,
+  "category": "Suitcases & Trolley Bags",
+  "brand": "Safari",
+  "stock": 10,
+  "imageUrl": "https://m.media-amazon.com/images/I/71KBRMVbagL._SX679_.jpg",
+  "createdAt": {
+    "$date": "2025-04-27T12:50:37.494Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-27T12:50:37.494Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "680e28dd8f44bc4024a4eeb6"
+  },
+  "name": "Lenovo Idea Tab Pro",
+  "description": "Lenovo Idea Tab Pro with Pen Plus|12.7 3K Display|144 Hz Refresh|12 GB RAM, 256 GB ROM| AI-Enabled| MediaTek Dimensity 8300|Quad JBL Speakers|10200 mAh Battery with 45 W Charger|WiFi 6e",
+  "price": 30999,
+  "category": "Electronics",
+  "brand": "Lenovo",
+  "stock": 100,
+  "imageUrl": "https://m.media-amazon.com/images/I/71+IIjxsVsL._SX679_.jpg",
+  "createdAt": {
+    "$date": "2025-04-27T12:53:49.073Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-27T12:53:49.073Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "680e29458f44bc4024a4eeb8"
+  },
+  "name": "Samsung Galaxy Tab S9",
+  "description": "Samsung Galaxy Tab S9|11-inch Dynamic AMOLED 2X Display|120Hz Refresh Rate|8 GB RAM, 128 GB Storage|Snapdragon 8 Gen 2 Processor|IP68 Water Resistance|WiFi 6E|S Pen Included",
+  "price": 67999,
+  "category": "Electronics",
+  "brand": "Samsung",
+  "stock": 50,
+  "imageUrl": "https://m.media-amazon.com/images/I/61-jnnIE68L._SX522_.jpg",
+  "createdAt": {
+    "$date": "2025-04-27T12:55:33.573Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-27T12:55:33.573Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "680e29898f44bc4024a4eeba"
+  },
+  "name": "ASUS ROG Zephyrus G14",
+  "description": "ASUS ROG Zephyrus G14|14-inch QHD Display|165Hz|AMD Ryzen 9 6900HS|16 GB RAM|1 TB SSD|RTX 3060 Graphics|Windows 11",
+  "price": 139990,
+  "category": "Laptops",
+  "brand": "ASUS",
+  "stock": 15,
+  "imageUrl": "https://m.media-amazon.com/images/I/51odY9CdW0L._SX300_SY300_QL70_FMwebp_.jpg",
+  "createdAt": {
+    "$date": "2025-04-27T12:56:41.207Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-27T12:56:41.207Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "680e29b98f44bc4024a4eebf"
+  },
+  "name": "Canon EOS R10 Mirrorless Camera",
+  "description": "Canon EOS R10|24.2 MP APS-C Sensor|4K Video|Dual Pixel Autofocus|DIGIC X Processor|High-Speed Shooting|Wi-Fi and Bluetooth Connectivity",
+  "price": 84990,
+  "category": "Cameras",
+  "brand": "Canon",
+  "stock": 10,
+  "imageUrl": "https://m.media-amazon.com/images/I/51H2xUSRiqL._SX300_SY300_QL70_FMwebp_.jpg",
+  "createdAt": {
+    "$date": "2025-04-27T12:57:29.897Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-27T12:57:29.897Z"
+  },
+  "__v": 0
+}]
